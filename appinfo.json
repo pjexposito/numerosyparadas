@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "KEY_T1": 0,
+        "KEY_T2": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pedro",
+    "longName": "N\u00fameros y paradas",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Paradas",
+    "uuid": "798e1724-3e74-4bc4-99da-1366a457f724",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
